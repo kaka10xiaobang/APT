@@ -1,0 +1,4 @@
+rootProject.name='ioc_demo'
+include ':app'
+include ':annotation'
+include ':annotation-processor'
